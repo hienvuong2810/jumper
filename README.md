@@ -80,9 +80,9 @@ This chart shows the total number of engagements per week for the main content c
 ![Weekly Engagement Trends by Category](images/weekly_engagement_trends.png)
 
 **Analysis:**
--   **"Tech" and "Lifestyle"** are the two best-performing and most stable categories, indicating a loyal audience.
--   **"Business"** shows a strong growth trend in recent weeks, suggesting its potential to become a new content pillar.
--   **"Travel"** has low and unstable engagement, which may require a new content strategy or a different target audience.
+-   **"Tech" and "Health"** are the two best-performing and most stable categories, indicating a loyal and engaged audience for this type of content.
+-   **"Business"** shows a strong growth trend in recent weeks, suggesting it has the potential to become a new content pillar for the platform.
+-   **"Travel"** consistently shows the lowest engagement, which may require a new content strategy or a re-evaluation of its target audience.
 
 ### 2. Engagement Heatmap by Hour and Day
 
@@ -91,8 +91,8 @@ The heatmap reveals the "golden hours" when users are most active.
 ![Engagement Heatmap](images/engagement_heatmap.png)
 
 **Analysis:**
--   **Peak Engagement Times:** Weekdays (Monday - Friday) show two clear engagement peaks: **10 AM - 12 PM** and **8 PM - 10 PM**.
--   **Weekends:** Engagement on weekends (Saturday, Sunday) is more spread out across the afternoon and evening.
+-   **Peak Engagement Times:** Weekdays (Monday - Friday) show two clear engagement peaks: a morning slot from **10 AM to 12 PM** and an evening slot from **8 PM to 10 PM**.
+-   **Weekend Activity:** Engagement on weekends is more spread out, with sustained activity from the early afternoon onwards, peaking around 9 PM. Publishing during these windows is recommended for maximum reach.
 
 ### 3. Author Performance Analysis
 
@@ -101,6 +101,6 @@ The scatter plot compares the number of posts against the average engagement per
 ![Author Performance Scatter Plot](images/author_performance.png)
 
 **Analysis:**
--   **Star Performers (Top-Right):** Authors like `Author 4` and `Author 11` produce a high volume of content with a high engagement rate per post. They are the most valuable authors.
--   **Quality over Quantity (Top-Left):** `Author 19` has few posts but a very high engagement rate. This is a "hidden gem" who should be encouraged to contribute more.
--   **Needs Improvement (Bottom-Right):** `Author 2` and `Author 15` post frequently but do not generate much engagement. Their content quality and strategy should be reviewed to avoid diluting the platform's content.
+-   **Star Performers (Top-Right):** Authors like `Author 20` and `Author 7` are the most valuable contributors, producing a high volume of content with a consistently high engagement rate.
+-   **Quality over Quantity (Top-Left):** `Author 18` has fewer posts but achieves one of the highest engagement-per-post ratios. This indicates high-quality content that resonates strongly with the audience; this author should be encouraged to contribute more.
+-   **Needs Improvement (Bottom-Right):** `Author 10` posts frequently but receives low average engagement. A review of their content strategy is advised to improve quality and avoid audience fatigue.
